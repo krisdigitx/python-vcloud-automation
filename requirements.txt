@@ -1,0 +1,6 @@
+  Requirements
+  -----------
+
+  Python >= 2.5
+  Python configObj module ( https://pypi.python.org/pypi/configobj/5.0.6 )
+  Any Linux variant OS

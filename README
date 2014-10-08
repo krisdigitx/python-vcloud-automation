@@ -1,0 +1,47 @@
+
+                          VCloud Automation Deployment Tool
+                          --------------------------------
+
+  What is it?
+  -----------
+
+  This is an automation tool to deploy VAPP's and VM's on the VCloud platform. It directly queries the VCLoud library to deploy VAPPs and VM.
+
+
+  The Latest Version
+  ------------------
+
+  Details of the latest version can be found on the Github
+  vCloud automation project page under https://github.com/krisdigitx/python-vcloud-automation
+
+  Documentation
+  -------------
+
+  Refer to the README file included in the repository and the VCloud API Programming Guide
+  http://pubs.vmware.com/vcd-51/index.jsp?topic=%2Fcom.vmware.vcloud.api.reference.doc_51%2Fdoc%2Findex.html
+
+
+  Installation
+  ------------
+
+  python setup.py install
+
+
+  Usage
+  ---------
+  The installation will deploy the tool in /usr/local/bin/vcloud, a sample VAPP configuration file is included under
+  vcloud-automation/config/vcloud.ini
+
+  Run the tool with the vapp configuration file using
+
+  vcloud -c vcloud.ini
+
+
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
+
+  Contacts
+  --------
+  alpha@krisindigitalage.com
